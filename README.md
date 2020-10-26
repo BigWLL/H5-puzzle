@@ -17,3 +17,7 @@
 
 1、游戏中所使用的图片必须是画布大小，为 600px;
 2、切图的时候使用是 canvas 画布。
+
+# 借签地址：
+https://blog.csdn.net/cMengZ/article/details/104295427
+按照他的代码自己敲了一遍，收益匪浅；
